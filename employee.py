@@ -6,7 +6,7 @@ while True:
     print("1 add employee")
     print("2 view all employee")  
     print("3 search a employee")
-    print("4 update the employee")    
+    print("4 update the employee")   
     print("5 delete a employee")
     print("6 exit")
     choice = int(input('enter an option:'))
